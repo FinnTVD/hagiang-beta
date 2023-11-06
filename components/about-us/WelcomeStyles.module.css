@@ -1,0 +1,9 @@
+.welcome-description{
+    @apply mt-[1.875rem] max-md:p-[4.2rem] max-md:mt-0;
+}
+.welcome-description p{
+    @apply font-poppins text-[0.875rem] leading-[1.57] tracking-[0.035] max-md:text-[3.7rem] max-md:mt-[2.5rem] text-center text-gray-scale-50 max-lg:text-[1.8rem];
+}
+.welcome-description strong{
+    @apply font-semibold text-gray-scale-80;
+}
